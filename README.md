@@ -8,8 +8,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" title="Emacs" alt="Emacs" width="50" height="50"/>&nbsp;
 </div>
 
-&nbsp;
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LeovanGit&theme=dark&background=000000)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LeovanGit&theme=dark&background=000000)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeovanGit&layout=compact&theme=vision-friendly-dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeovanGit&layout=compact&theme=vision-friendly-dark)
