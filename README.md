@@ -1,4 +1,12 @@
 <div>
+  <img src="DLE.png" title="DLE" alt="DLE" width="50" height="50"/>&nbsp;
+</dib>
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LeovanGit&theme=dark&background=000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeovanGit&layout=compact&theme=vision-friendly-dark)
+
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Py" alt="Py" width="50" height="50"/>&nbsp;
@@ -8,6 +16,3 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1024px-EmacsIcon.svg.png" title="Emacs" alt="Emacs" width="50" height="50"/>&nbsp;
 </div>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LeovanGit&theme=dark&background=000000)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeovanGit&layout=compact&theme=vision-friendly-dark)
